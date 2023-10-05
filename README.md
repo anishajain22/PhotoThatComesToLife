@@ -7,9 +7,9 @@ This is an attempt to build a product similar to [LifePrint](https://www.indiego
 
 
 In the sample video, we bring to life the below image of book, ![CV book cover image](data/cv_desk.png)
- in the below video by replacing it with KungFu Panda movie, because why not! Who doesn't love a cute Panda:)
-
-![book mov](https://j.gifs.com/WPrLEx.gif)
-
+ in the below video by replacing it with KungFu Panda movie, because why not. Who doesn't love a cute Panda
+ 
+![](https://j.gifs.com/WPrLEx.gif)
+ 
  Below is an impressive result at about 60 fps.
  ![Kung fu Panda video]()
